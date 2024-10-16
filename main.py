@@ -38,7 +38,7 @@ def convert_image_name(image):
 if __name__ == '__main__':
     print('Starting ...')
     user = "admin"
-    password = "Harbor12345"
+    password = "password"
     projects = project()
     images = []
     for project in projects:
